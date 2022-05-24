@@ -39,6 +39,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 
+## Mock-Up
+
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./utils/images/get-all-demo.gif)
